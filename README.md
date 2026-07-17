@@ -22,6 +22,7 @@
 
 <div align="justify">
 
+---
 <!--- About me -->
 ### Sobre mim
 
