@@ -110,7 +110,7 @@ Acredito que a maior forma de aprender é praticando e costumo postar frequentem
 | ![D13G0 Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D13G0-O11VEIRA&mode-daily&theme=transparent&title_color=FAFAFA&icon_color=FAFAFA") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D13G0-O11VEIRA&hide=Html&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D13G0-O11VEIRA&theme=github_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D13G0-O11VEIRA&theme=transparent) |  |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D13G0-O11VEIRA&theme=transparent) | ![](https://streak-stats.demolab.com?user=D13G0-O11VEIRA&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
 | :-: | :-: |
 
 --- 
