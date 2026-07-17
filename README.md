@@ -1,9 +1,9 @@
 # About me:
 
-Estudante de Ciência da Computação apaixonado por desenvolvimento de software, inteligência artificial e criação de aplicações úteis.
+Computer Science student passionate about software development, artificial intelligence, and creating useful applications.
 
-## 💻 Tecnologias
+## 💻 Technologies:
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cs,mysql,git,github,vscode,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cs,mysql,git,github,vscode,html,css,windows" />
 </p>
