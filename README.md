@@ -12,6 +12,16 @@
     Please, leave a star on my README, it will make my day :)
 -->
 
+<!--- Banner -->
+<p align="center">
+  <img src="assets/shy.gif" width="1000px" height="500px" alt="Shy Cat" />
+</p>
+
+</br> 
+<img src="assets/iconcat_3.jpg" width=320 align="left">
+
+<div align="justify">
+
 <!--- About me -->
 ### Sobre mim
 
@@ -91,12 +101,6 @@ Acredito que a maior forma de aprender é praticando e costumo postar frequentem
 
 ---
 
-<div align="center">
-
-<p align="center">
-  <img src="assets/hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
-</p>
-
 <!-- Statistics -->
 ### Estatísticas
 
@@ -117,5 +121,5 @@ Acredito que a maior forma de aprender é praticando e costumo postar frequentem
 </br> 
 
 <p align="center">
-  Obrigado por visitar meu perfil! 💜
+  Obrigado por visitar meu perfil!
 </p>
