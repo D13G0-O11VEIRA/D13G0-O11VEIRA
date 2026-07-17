@@ -1,4 +1,6 @@
-# Estudante de Ciência da Computação apaixonado por desenvolvimento de software, inteligência artificial e criação de aplicações úteis.
+# About me:
+
+Estudante de Ciência da Computação apaixonado por desenvolvimento de software, inteligência artificial e criação de aplicações úteis.
 
 ## 💻 Tecnologias
 
