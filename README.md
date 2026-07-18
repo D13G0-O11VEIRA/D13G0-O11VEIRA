@@ -24,13 +24,13 @@
 
 ---
 <!--- About me -->
-### Sobre mim
+### About me
 
-Sou `Estudante de Ciencia da Computação` e me aventuro como desenvolvedor `Fullstack`. 
-Apaixonado por tecnologia, design e ideias fora da caixa! Estou cursando na Gran Faculdade em **Bacharel de Ciencia da Computação**.
-Estar atuando junto ao cliente como suporte me proporciona uma visão das necessidades do usuário e regras de negócio, me ajudando à criar aplicações que realmente fazem sentido!
-Tenho conhecimentos em `HTML`, `CSS`, `Python`, `Java`, `JavaScript`, `C`, `C#`, e atualmente estou aprendendo `automações`! 
-Sou muito curioso e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
+I'm a `Computer Science student` exploring the world of `Full-Stack Development`.
+I'm passionate about technology, design, and thinking outside the box! I'm currently pursuing a `Bachelor's degree in Computer Science` at `Gran Faculdade`.
+Working directly with clients in a support role has given me valuable insight into user needs and business rules, helping me build applications that truly solve real-world problems!
+I have experience with `HTML`, `CSS`, `Python`, `Java`, `JavaScript`*, `C`, `C#` and I'm currently learning `automation`!
+I'm naturally curious, constantly expanding my knowledge, and always looking for new challenges in the technology field!
 
 </div>
 </br>
@@ -40,7 +40,7 @@ Sou muito curioso e estou constantemente atualizando meus conhecimentos e buscan
 <!--- My stacks -->
 <div align="center">
 
-### Tecnologias que uso
+### Tecnologies
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -72,13 +72,13 @@ Sou muito curioso e estou constantemente atualizando meus conhecimentos e buscan
 
 <div align="justify">
     
-### Um pouco mais sobre mim! 
+### A little more about me! 
 
-Eu gosto de desafios que me fazem crescer! 
-Gosto de ajudar outras pessoas dentro da área de tecnologia.
-Acredito que a maior forma de aprender é praticando e costumo postar frequentemente no linkedin meus aprendizados para outras pessoas se inspirarem
+I enjoy challenges that push me to grow.
+I like helping others in the technology field and sharing knowledge whenever I can.
+I believe the best way to learn is through hands-on experience, which is why I regularly share my learning journey and insights on LinkedIn to inspire others.
 
-**Fale comigo:**
+**Talk to me:**
 
   <a href="https://www.linkedin.com/in/diego-oliveira-aa07a7312/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -103,28 +103,16 @@ Acredito que a maior forma de aprender é praticando e costumo postar frequentem
 ---
 
 <!-- Statistics -->
-### Estatísticas
+### Statistics
 
 </div>
 
 <div align="center">
     
-| ![D13G0 Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D13G0-O11VEIRA&mode-daily&theme=transparent&title_color=FAFAFA&icon_color=FAFAFA") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D13G0-O11VEIRA&hide=Html&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D13G0-O11VEIRA&theme=github_dark) |
+| ![D13G0 Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D13G0-O11VEIRA&mode-daily&theme=transparent&title_color=FAFAFA&icon_color=FAFAFA") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D13G0-O11VEIRA&hide=Html&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D13G0-O11VEIRA&theme=transparent) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D13G0-O11VEIRA&theme=transparent) | 
 | :-: |
 
 </div>
-
---- 
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeXliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF gandalf" />
-</p>
-
-</br> 
-
-<p align="center">
-  Obrigado por visitar meu perfil!
-</p>
