@@ -13,9 +13,6 @@
 -->
 
 <!--- Banner -->
-<p align="center">
-  <img src="assets/shy.gif" width="1000px" height="500px" alt="Shy Cat" />
-</p>
 
 </br> 
 <img src="assets/iconcat_3.jpg" width=320 align="left">
@@ -27,9 +24,9 @@
 ### About me
 
 I'm a `Computer Science student` exploring the world of `Full-Stack Development`.
-I'm passionate about technology, design, and thinking outside the box! I'm currently pursuing a `Bachelor's degree in Computer Science` at `Gran Faculdade`.
+I'm passionate about technology, design, and thinking outside the box! I'm currently pursuing a `Bachelor's degree in Computer Science`.
 Working directly with clients in a support role has given me valuable insight into user needs and business rules, helping me build applications that truly solve real-world problems!
-I have experience with `HTML`, `CSS`, `Python`, `Java`, `JavaScript`*, `C`, `C#` and I'm currently learning `automation`!
+I have experience with `HTML`, `CSS`, `Python`, `Java`, `JavaScript`, `C++`, `C#` and I'm currently learning `automation`!
 I'm naturally curious, constantly expanding my knowledge, and always looking for new challenges in the technology field!
 
 </div>
@@ -72,11 +69,11 @@ I'm naturally curious, constantly expanding my knowledge, and always looking for
 
 <div align="justify">
     
-### A little more about me! 
+### Fun facts about me! 
 
 I enjoy challenges that push me to grow.
 I like helping others in the technology field and sharing knowledge whenever I can.
-I believe the best way to learn is through hands-on experience, which is why I regularly share my learning journey and insights on LinkedIn to inspire others.
+I believe the best way to learn is through hands-on experience, which is why I regularly share my learning journey and insights to inspire others.
 
 **Talk to me:**
 
