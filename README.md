@@ -19,11 +19,9 @@ Building practical software, learning by doing, and turning ideas into working p
 
 ### About me
 
-I'm a **Computer Science student** pursuing a Bachelor's degree and continuously expanding my skills through hands-on software and electronics projects.
+I'm a `Computer Science student` pursuing a Bachelor's degree and continuously expanding my skills through hands-on software and electronics projects.
 
-My main interests are **software development, Artificial Intelligence, automation, backend development, full-stack applications, databases and embedded systems**. I enjoy taking an idea from the first prototype to a functional application, while learning how to structure, debug, refactor and improve the code along the way.
-
-My recent projects reflect this learning path: desktop applications with Python, web applications integrated with Gemini AI, modular Discord bots with `discord.py`, Java applications connected to MySQL, and Arduino/C++ projects involving sensors, LCDs, buttons, PWM and motor control.
+My main interests are `software development, Artificial Intelligence, automation, backend development, full-stack applications, databases and embedded systems`. I enjoy taking an idea from the first prototype to a functional application, while learning how to structure, debug, refactor and improve the code along the way.
 
 I'm currently focused on becoming a stronger developer by improving my **programming fundamentals, software architecture, APIs, databases, Git/GitHub workflows and AI integration**.
 
