@@ -82,6 +82,7 @@ I'm always interested in learning from other developers, collaborating on projec
 
 
 ---
+
 > **Learn by building. Build by solving. Improve by iterating.**
 
 I don't want to learn programming only through theory. I prefer creating real projects, breaking things, understanding why they broke, fixing them and gradually turning prototypes into better software.
