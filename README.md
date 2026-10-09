@@ -12,6 +12,21 @@
     Please, leave a star on my README, it will make my day :)
 -->
 
+<div align="center">
+
+# Diego Oliveira
+
+### Computer Science Student · Aspiring Full-Stack Developer
+
+Building practical software that solves real-world problems, from understanding the user's needs to shipping working code.
+
+<a href="https://www.linkedin.com/in/diego-oliveira-aa07a7312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:diego.docr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
 <!--- Banner -->
 
 </br> 
@@ -19,15 +34,14 @@
 
 <div align="justify">
 
----
 <!--- About me -->
 ### About me
 
-I'm a `Computer Science student` exploring the world of `Full-Stack Development`.
-I'm passionate about technology, design, and thinking outside the box! I'm currently pursuing a `Bachelor's degree in Computer Science`.
-Working directly with clients in a support role has given me valuable insight into user needs and business rules, helping me build applications that truly solve real-world problems!
+I'm a `Computer Science student` pursuing a Bachelor's degree and exploring the world of `Full-Stack Development`. I'm passionate about technology, design, and thinking outside the box.
+
+Working directly with clients in a support role gave me valuable insight into user needs and business rules, a perspective that helps me build applications that truly solve real-world problems. 
 I have experience with `HTML`, `CSS`, `Python`, `Java`, `JavaScript`, `C++`, `C#` and I'm currently learning `automation`!
-I'm naturally curious, constantly expanding my knowledge, and always looking for new challenges in the technology field!
+I'm naturally curious, constantly expanding my knowledge, and always looking for new challenges in the technology field.
 
 </div>
 </br>
@@ -69,7 +83,7 @@ I'm naturally curious, constantly expanding my knowledge, and always looking for
 
 <div align="justify">
     
-### Fun facts about me! 
+### Beyond the Code! 
 
 I enjoy challenges that push me to grow.
 I like helping others in the technology field and sharing knowledge whenever I can.
