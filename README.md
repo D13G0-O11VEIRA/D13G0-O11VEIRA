@@ -1,7 +1,5 @@
 <div align="center">
 
-# Diego Oliveira
-
 ### Computer Science Student · Software Developer in Progress
 
 Building practical software, learning by doing, and turning ideas into working projects.
