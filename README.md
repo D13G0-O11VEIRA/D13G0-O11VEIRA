@@ -17,11 +17,11 @@ Building practical software, learning by doing, and turning ideas into working p
 
 ### About me
 
-I'm a `Computer Science student` pursuing a Bachelor's degree and continuously expanding my skills through hands-on software and electronics projects.
+I'm a `Computer Science student` pursuing a Bachelor's degree and exploring the world of `Full-Stack Development`. I'm passionate about technology, design, and thinking outside the box.
 
-My main interests are `software development, Artificial Intelligence, automation, backend development, full-stack applications, databases and embedded systems`. I enjoy taking an idea from the first prototype to a functional application, while learning how to structure, debug, refactor and improve the code along the way.
+Working directly with clients in a support role gave me valuable insight into user needs and business rules, a perspective that helps me build applications that truly solve real-world problems. I'm naturally curious, constantly expanding my knowledge, and always looking for new challenges in the technology field.
 
-I'm currently focused on becoming a stronger developer by improving my **programming fundamentals, software architecture, APIs, databases, Git/GitHub workflows and AI integration**.
+I'm currently focused on becoming a stronger developer by improving my `programming fundamentals`, `software architecture`, `APIs, databases`, `Git/GitHub workflows and AI integration`.
 
 </div>
 
